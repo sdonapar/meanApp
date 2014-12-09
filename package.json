@@ -1,7 +1,7 @@
 {
   "name": "meanApp",
   "version": "1.0.0",
-  "description": "meanApp using MongoDB,Express,Angular and NodeJS",
+  "description": "meanApp developed using MongoDB,Express,Angular and NodeJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
